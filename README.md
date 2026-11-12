@@ -53,7 +53,6 @@ The dashboard includes interactive slicers to filter employee data by:
 - Create meaningful KPIs.
 - Improve data visualization skills.
 - Generate insights from HR data.
-```
 ## 📜 License
 This project is licensed under the MIT License.
 ## 👩‍💻 Author
