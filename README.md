@@ -11,13 +11,13 @@ This project helps understand HR trends and supports data-driven decision-making
 - Data Cleaning
 - Data Visualization
 ## 📊 Dashboard Preview
-![HR Workforce Analytics Dashboard](Images/dashboard_preview.png.png)
+![HR Workforce Analytics Dashboard](dashboard_preview.png.png)
 ## 📁 Project Files
 | File | Description |
 |---|---|
-| [Dashboard Screenshot](Images/dashboard_preview.png.png) | View dashboard preview |
-| [Dataset](Dataset/HR_Employee_Data.csv.xlsx) | Download original employee dataset |
-| [Excel Dashboard](Dashboard/HR_Workforce_Analytics_Dashboard..xlsx) | Download interactive Excel dashboard |
+| [Dashboard Screenshot](dashboard_preview.png.png) | View Dashboard Preview |
+| [Dataset](HR_Employee_Data.csv.xlsx) | Download Original Employee Dataset |
+| [Excel Dashboard](HR_Workforce_Analytics_Dashboard..xlsx) | Download Interactive Excel Dashboard |
 ## 📈 Key Performance Indicators (KPIs)
 - **Total Employees:** 99
 - **Average Performance Rating:** 2.9
