@@ -70,11 +70,7 @@ HR-Workforce-Analytics-Dashboard/
 └── LICENSE
 ```
 ## 📜 License
-
 This project is licensed under the MIT License.
-
-See the [LICENSE](LICENSE) file for details.
-
 ## 👩‍💻 Author
 ## Fathima Rushda
 **Thank you for visiting this project!**
