@@ -1,7 +1,7 @@
 # HR Workforce Analytics Dashboard
 ## Project Overview
-The HR Workforce Analytics Dashboard is an interactive Excel dashboard designed to analyse employee information and provide insights into workforce distribution, employee performance, salaries, and employment status.
-This project helps HR teams understand workforce trends and make data-driven decisions.
+*The HR Workforce Analytics Dashboard is an interactive Excel dashboard designed to analyse employee information and provide insights into workforce distribution, employee performance, salaries, and employment status.
+This project helps HR teams understand workforce trends and make data-driven decisions.*
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
