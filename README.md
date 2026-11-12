@@ -53,21 +53,6 @@ The dashboard includes interactive slicers to filter employee data by:
 - Create meaningful KPIs.
 - Improve data visualization skills.
 - Generate insights from HR data.
-## 📂 Repository Structure
-```text
-HR-Workforce-Analytics-Dashboard/
-│
-├── Dashboard/
-│   └── HR_Workforce_Analytics_Dashboard..xlsx
-│
-├── Dataset/
-│   └── HR_Employee_Data.csv.xlsx
-│
-├── Images/
-│   └── dashboard_preview.png.png
-│
-├── README.md
-└── LICENSE
 ```
 ## 📜 License
 This project is licensed under the MIT License.
