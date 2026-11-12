@@ -40,9 +40,8 @@ These filters allow users to explore employee data interactively.
 - Full-time employees account for 40 employees.
 - Contract employees account for 31 employees.
 - Part-time employees account for 28 employees.
-## Project Files
-- `Dashboard/HR_Workforce_Analytics_Dashboard.xlsx` – Excel dashboard.
-- `Images/dashboard_preview.png` – Dashboard screenshot.
+## Project Preview
+- dashboard_preview.png.png
 ## Project Purpose
 This project was created to practice Excel data analytics, data visualization, KPI development, and interactive dashboard creation.
 ---
