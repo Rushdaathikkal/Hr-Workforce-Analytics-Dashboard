@@ -1,1 +1,2 @@
-Hr workfoce analytics dashbord
+HR WORKFORCE ANALYTICS DASHBOARD
+
